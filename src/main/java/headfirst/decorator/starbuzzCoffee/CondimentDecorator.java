@@ -1,4 +1,4 @@
-package headfirst.Decorator.starbuzzCoffee;
+package headfirst.decorator.starbuzzCoffee;
 
 //extends pq precisa ser um subtipo. Torna-se intercambiável
 public abstract class CondimentDecorator extends Beverage {
